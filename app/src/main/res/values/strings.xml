@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Holy Alarm</string>
+    <string name="hen_gio">Hẹn giờ</string>
+    <string name="huy">Hủy</string>
+    <string name="lap_lai">Lặp lại (mỗi ngày)</string>
+    <string name="lucky">23</string>
+    <string name="todo">TODO</string>
+    <string-array name="list_name">
+        <item>anh201</item>
+        <item>anh202</item>
+        <item>anh203</item>
+        <item>anh204</item>
+        <item>anh205</item>
+        <item>anh206</item>
+        <item>anh207</item>
+        <item>anh208</item>
+        <item>anh209</item>
+        <item>anh210</item>
+        <item>anh211</item>
+        <item>anh212</item>
+        <item>anh213</item>
+        <item>anh214</item>
+        <item>anh215</item>
+        <item>anh216</item>
+        <item>anh217</item>
+        <item>anh218</item>
+    </string-array>
+</resources>
